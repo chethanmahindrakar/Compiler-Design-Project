@@ -10,3 +10,5 @@ The phases of the compiler included are:
 2. Syntax Analyzer
 3. Semantic Analyzer
 4. ICG in 3 address form.
+
+It also produces symbol table and Intermediate Code in Quadruples format.
